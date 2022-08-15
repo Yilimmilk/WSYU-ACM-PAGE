@@ -38,7 +38,7 @@ draft: false
 
 ![](/images/beauty_1655127965365.JPG)
 
-<video width="100%" height="auto" src="/images/MOV_0085.MP4"  controls></video>
+<video width="100%" height="auto" src="/videos/MOV_0085.mp4"  controls></video>
 
 ## 第四届湖北省CCPC大学生程序设计竞赛
 
@@ -88,7 +88,7 @@ draft: false
 
 ![](/images/IMG_0933.JPG)
 
-<video width="100%" height="auto" src="/images/IMG_2295.mp4"  controls></video>
+<video width="100%" height="auto" src="/videos/MOV_2295.mp4"  controls></video>
 
 ## 武昌首义学院第二届程序设计竞赛（软帝杯）
 
