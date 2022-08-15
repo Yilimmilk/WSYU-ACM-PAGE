@@ -1,0 +1,163 @@
+baseURL: "https://www.wsyuacm.com/"
+title: 武昌首义学院 ACM爱好者协会
+paginate: 5
+theme: PaperMod
+
+copyright: "**©&nbsp;2019-2022&nbsp;&nbsp;[武昌首义学院 ACM爱好者协会](https://www.wsyuacm.com/) ｜ [鄂ICP备19011794号](https://beian.miit.gov.cn/)**"
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+defaultContentLanguage: zh
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+languages:
+    zh:
+        languageName: "中文"
+        weight: 2
+        title: "武昌首义学院 ACM爱好者协会"
+        taxonomies:
+          category: 分类
+          tag: 标签
+        profileMode:
+          enabled: true
+          title: "ACM爱好者协会"
+          subtitle: "这里是武昌首义学院ACM爱好者协会，是对于竞赛性编程（Competitive Programming）有着浓郁兴趣的团体。 🌙 "
+          buttons:
+              - name: 文章
+                url: posts/
+              - name: OJ系统
+                url: "https://oj.wsyuacm.com/"
+        menu:
+            main:
+                - name: 文章
+                  url: posts/
+                  weight: 5
+                - name: 协会相册
+                  url: posts/gallery/
+                  weight: 10
+                - name: 荣誉奖项
+                  url: posts/honorary-awards/
+                  weight: 15
+                - name: 团队组成
+                  url: posts/team-composition/
+                  weight: 20
+                - name: 承办活动
+                  url: posts/hosting-events/
+                  weight: 25
+                - name: 协会介绍
+                  url: posts/introduce/
+                  weight: 30
+
+    en:
+        languageName: "English"
+        weight: 1
+        title: ACM Club of WSYU
+        taxonomies:
+          category: ENcategories
+          tag: ENtags
+        profileMode:
+          enabled: true
+          title: Association for Computing Machinery Club
+          subtitle: "Hi there, This is ACM Club of WSYU, is a computer science society and WSYU tech enthusiasts hub dedicated to providing unique opportunities, mentoring and support for passionate WSYU students majoring in Computer Science or Computer Engineering. 🌙 "
+          buttons:
+              - name: Blog
+                url: /posts/
+              - name: Online Judge
+                url: "https://oj.wsyuacm.com/"
+        menu:
+            main:
+                - name: Post
+                  url: ../posts/
+                  weight: 5
+                - name: Gallery
+                  url: ../posts/gallery/
+                  weight: 10
+                - name: Honorary
+                  url: ../posts/honorary-awards/
+                  weight: 15
+                - name: Team
+                  url: ../posts/team-composition/
+                  weight: 20
+                - name: Events
+                  url: ../posts/hosting-events/
+                  weight: 25
+                - name: Introduce
+                  url: ../posts/introduce/
+                  weight: 30
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+    env: production
+    description: "这里是武昌首义学院ACM爱好者协会，是对于竞赛性编程（Competitive Programming）有着浓郁爱好的团体。"
+    # author: "武昌首义学院 ACM爱好者协会"
+
+    defaultTheme: auto
+    # disableThemeToggle: true
+    ShowShareButtons: true
+    ShowReadingTime: true
+    # disableSpecial1stPost: true
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: true
+    ShowToc: true
+    # comments: false
+    images: [""]
+    
+    socialIcons:
+        # - name: github
+        #   url: "https://github.com/adityatelange/hugo-PaperMod"
+        # - name: KoFi
+        #   url: "https://ko-fi.com/adityatelange"
+        # - name: Discord
+        #   url: "https://discord.gg/ahpmTvhVmp"
+        - name: RsS
+          url: "index.xml"
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        noClasses: false
+        # anchorLineNos: true
+        # codeFences: true
+        # guessSyntax: true
+        # lineNos: true
+        # style: monokai
+
+privacy:
+    vimeo:
+        disabled: false
+        simple: true
+
+    twitter:
+        disabled: false
+        enableDNT: true
+        simple: true
+
+    instagram:
+        disabled: false
+        simple: true
+
+    youtube:
+        disabled: false
+        privacyEnhanced: true
+
+services:
+    instagram:
+        disableInlineCSS: true
+    twitter:
+        disableInlineCSS: true
