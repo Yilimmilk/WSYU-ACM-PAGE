@@ -6,6 +6,38 @@ draft: false
 
 ## 2021级ACM实验室嘉鱼新生宣讲
 
+**2022年9月24日 · 武昌校区**
+
+![](/images/IMG_1146.JPG)
+
+![](/images/IMG_1147.JPG)
+
+![](/images/IMG_1148.JPG)
+
+![](/images/IMG_1455.JPG)
+
+![](/images/IMG_1456.JPG)
+
+![](/images/IMG_1457.JPG)
+
+![](/images/IMG_1458.JPG)
+
+![](/images/IMG_1459.JPG)
+
+![](/images/IMG_1461.JPG)
+
+![](/images/DSCF2756.JPG)
+
+![](/images/DSCF2758.JPG)
+
+![](/images/DSCF2761.JPG)
+
+![](/images/DSCF2762.JPG)
+
+![](/images/DSCF2763.JPG)
+
+## 2021级ACM实验室嘉鱼新生宣讲
+
 **2022年6月13日 · 嘉鱼校区**
 
 ![](/images/IMG_20220613_202621.jpg)
