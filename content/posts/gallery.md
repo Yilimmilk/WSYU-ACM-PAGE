@@ -4,6 +4,58 @@ date: 2021-05-14T20:53:06+08:00
 draft: false
 ---
 
+## 武昌首义学院第四届程序设计竞赛（中软杯）
+
+**2022年11月13日 · 武昌校区**
+
+![](/images/IMG_2175.jpeg)
+
+![](/images/DSCF6261.JPG)
+
+![](/images/DSCF6259.JPG)
+
+![](/images/DSCF6254.JPG)
+
+![](/images/IMG_2173.jpeg)
+
+![](/images/IMG_2174.jpeg)
+
+![](/images/IMG_2160.jpeg)
+
+![](/images/IMG_2161.jpeg)
+
+![](/images/IMG_2163.jpeg)
+
+![](/images/DSCF6262.JPG)
+
+![](/images/DSCF6251.JPG)
+
+![](/images/DSCF6240.JPG)
+
+![](/images/DSCF6238.JPG)
+
+![](/images/DSCF6235.JPG)
+
+![](/images/IMG_2165.jpeg)
+
+![](/images/IMG_2166.jpeg)
+
+![](/images/IMG_2167.jpeg)
+
+![](/images/IMG_2168.jpeg)
+
+![](/images/IMG_2169.jpeg)
+
+![](/images/DSCF6247.JPG)
+
+![](/images/DSCF6244.JPG)
+
+![](/images/IMG_2170.jpeg)
+
+![](/images/IMG_2180.jpeg)
+
+![](/images/IMG_2182.jpeg)
+
 ## 武昌首义学院第三届程序设计新生赛/ACM实验室选拔赛
 
 **2022年9月24日 · 武昌校区**
